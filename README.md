@@ -3,10 +3,10 @@
 Welcome to my CLI based portofolio! This is command-line interface(CLI) tool built with Node.js that showcase my portofolio, including my projects and contact information.
 
 ## Features
-- Display projects
-- Show educational background
-- Show contact information
 - Easy-to-navigate CLI interface
+- Detailed project descriptions with links to live demos or repositories
+- Educational background and contact information
+- Multiple themes for a customizable user experience
 
 ## Installation
 
