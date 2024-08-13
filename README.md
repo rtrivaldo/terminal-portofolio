@@ -1,4 +1,4 @@
-# CLI Based Portofolio by Rivaldo Tandoko
+# CLI Based Portfolio by Rivaldo Tandoko
 
 Welcome to my CLI based portofolio! This is command-line interface(CLI) tool built with Node.js that showcase my portofolio, including my projects and contact information.
 
